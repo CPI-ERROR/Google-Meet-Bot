@@ -24,7 +24,7 @@ class GoogleMeet():
         self.mail_url = "https://mail.google.com/"
         
         
-        self.hook = Webhook("")                   //add your webhook link here
+        self.hook = Webhook("")                              #add your webhook link here
         
         self.opt = Options()
         self.opt.add_argument("--disable-infobars")
@@ -174,7 +174,7 @@ class GoogleMeet():
     
 
     def joinhs(self):
-        hook = Webhook("")           //add your webhook link here
+        hook = Webhook("")                          #add your webhook link here
         self.loginToGmail()
         hs = "https://meet.google.com/duz-vzzh-rso"
         self.openGoogleMeet(hs)
@@ -189,7 +189,7 @@ class GoogleMeet():
         time.sleep(3)
 
     def joinoops(self):
-        hook = Webhook("")            //add your webhook link here
+        hook = Webhook("")                        #add your webhook link here
         
         #self.loginToGmail()
         oops = "http://meet.google.com/rwy-cafc-zus"
@@ -207,7 +207,7 @@ class GoogleMeet():
         
 
     def joinsc(self):
-        hook = Webhook("")                           //add your webhook link here
+        hook = Webhook("")                           #add your webhook link here
         print("joinsc called")
         #self.loginToGmail()
         sc = "https://meet.google.com/jnr-zmjz-uko"
@@ -225,7 +225,7 @@ class GoogleMeet():
         
 
     def joinmaths(self):
-        hook = Webhook("")                         //add your webhook link here
+        hook = Webhook("")                         #add your webhook link here
         print("joinmaths called")
         #self.loginToGmail()
         
