@@ -29,4 +29,8 @@
 <img src="https://github.com/nirala69/hackiiitv20-submissions/blob/master/team%233%20-%20%7B5%7D/Images/discord.jpeg" width="200" align='center'>
         </a>
 
-## 💘 HAVE A NICE DAY ☕
+## 💘 HAVE A NICE DAY ☕![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=CPI-ERROR.Google-Meet-Bot)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
+
+<hr>
+
