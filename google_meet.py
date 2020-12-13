@@ -22,7 +22,9 @@ class GoogleMeet():
         self.password = password
         self.driver_path = driver_path
         self.mail_url = "https://mail.google.com/"
-        self.hook = Webhook("https://discord.com/api/webhooks/787235989965897768/79hHlSXKtlEVYHpTywCbN2RrWzW0xb1a6uXVqE06WDikniQcvNs6znLjO3ygkq-1u02S")
+        
+        
+        self.hook = Webhook("")
         
         self.opt = Options()
         self.opt.add_argument("--disable-infobars")
@@ -172,7 +174,7 @@ class GoogleMeet():
     
 
     def joinhs(self):
-        hook = Webhook("https://discord.com/api/webhooks/787235989965897768/79hHlSXKtlEVYHpTywCbN2RrWzW0xb1a6uXVqE06WDikniQcvNs6znLjO3ygkq-1u02S")
+        hook = Webhook("")           //add your link here
         self.loginToGmail()
         hs = "https://meet.google.com/duz-vzzh-rso"
         self.openGoogleMeet(hs)
@@ -187,7 +189,7 @@ class GoogleMeet():
         time.sleep(3)
 
     def joinoops(self):
-        hook = Webhook("https://discord.com/api/webhooks/787235989965897768/79hHlSXKtlEVYHpTywCbN2RrWzW0xb1a6uXVqE06WDikniQcvNs6znLjO3ygkq-1u02S")
+        hook = Webhook("")            //add your link here
         
         #self.loginToGmail()
         oops = "http://meet.google.com/rwy-cafc-zus"
@@ -205,7 +207,7 @@ class GoogleMeet():
         
 
     def joinsc(self):
-        hook = Webhook("https://discord.com/api/webhooks/787235989965897768/79hHlSXKtlEVYHpTywCbN2RrWzW0xb1a6uXVqE06WDikniQcvNs6znLjO3ygkq-1u02S")
+        hook = Webhook("")                           //add your link here
         print("joinsc called")
         #self.loginToGmail()
         sc = "https://meet.google.com/jnr-zmjz-uko"
@@ -223,7 +225,7 @@ class GoogleMeet():
         
 
     def joinmaths(self):
-        hook = Webhook("https://discord.com/api/webhooks/787235989965897768/79hHlSXKtlEVYHpTywCbN2RrWzW0xb1a6uXVqE06WDikniQcvNs6znLjO3ygkq-1u02S")
+        hook = Webhook("")                         //add your link here
         print("joinmaths called")
         #self.loginToGmail()
         
