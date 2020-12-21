@@ -18,7 +18,7 @@
 ## ⭐How to use
 	
 - Replace email, password and driver_path(Mind the Backslashes 😜) and Discord webhook token with yours.
-- for linux and max user download .[chrome driver](https://chromedriver.chromium.org/downloads)
+- for linux and mac user download .[chrome driver](https://chromedriver.chromium.org/downloads)
 - Replace meeting link and Schedule it according to yours.
 - Run main.py file.
 
